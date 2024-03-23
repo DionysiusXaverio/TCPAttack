@@ -1,4 +1,4 @@
-# Name: Dionysius Xaverio
+# Author Name: Dionysius Xaverio
 
 import sys
 import os
